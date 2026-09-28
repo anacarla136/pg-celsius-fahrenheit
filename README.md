@@ -6,8 +6,8 @@ Trabalho acadêmico que vai usar **Programação Genética (PG)** em Python para
 
 ## Integrantes
 
-- [Ana Carla Martins Teixeira]
-- [Brunna Luyza Coelho Alves da Silva]
+- Ana Carla Martins Teixeira
+- Brunna Luyza Coelho Alves da Silva
 
 
 
@@ -24,14 +24,7 @@ As fórmulas conhecidas, que serão usadas apenas para gerar os dados e conferir
 
 Técnica inspirada na evolução natural. Uma população de expressões matemáticas evolui ao longo de gerações por meio de seleção, cruzamento e mutação, até que alguma delas se aproxime da solução.
 
-## Plano do trabalho
 
-- [ ] Gerar os dados de treino (pares Celsius e Fahrenheit)
-- [ ] Definir a representação dos indivíduos (árvores de expressão)
-- [ ] Implementar a função de aptidão (erro entre o valor previsto e o real)
-- [ ] Implementar seleção, cruzamento e mutação
-- [ ] Executar a evolução e analisar o resultado
-- [ ] Documentar os resultados neste README
 
 ## Tecnologias
 
