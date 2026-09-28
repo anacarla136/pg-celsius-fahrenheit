@@ -2,7 +2,7 @@
 
 Trabalho acadêmico que vai usar **Programação Genética (PG)** em Python para descobrir a fórmula de conversão de graus Celsius para Fahrenheit a partir de dados.
 
-> 🚧 Projeto em desenvolvimento.
+>  Projeto em desenvolvimento.
 
 ## Integrantes
 
